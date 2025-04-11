@@ -1,11 +1,11 @@
-import express from "../../public/assets/express.png";
-import murcas_ui from "../../public/assets/murcas_ui.png";
-import email_manager from "../../public/assets/email_manager.png";
-import ndjoka_ui from "../../public/assets/ndjoka_ui.png";
-import synapse from "../../public/assets/synapse.png";
-import tontine_africaine from "../../public/assets/tontine_africaine.png";
-import Startup_academy from "../../public/assets/Startup academy.png";
-import Centre_albert_einstein from "../../public/assets/Centre albert einstein.png";
+import express from "../assets/express.png";
+import murcas_ui from "../assets/murcas_ui.png";
+import email_manager from "../assets/email_manager.png";
+import ndjoka_ui from "../assets/ndjoka_ui.png";
+import synapse from "../assets/synapse.png";
+import tontine_africaine from "../assets/tontine_africaine.png";
+import Startup_academy from "../assets/Startup academy.png";
+import Centre_albert_einstein from "../assets/Centre albert einstein.png";
 
 
 export const personalInfo = {

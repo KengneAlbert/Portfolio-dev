@@ -3,7 +3,7 @@ import { Github, Linkedin, Mail, ChevronDown } from 'lucide-react';
 import { motion } from 'framer-motion';
 import { gradients } from '../utils/gradients';
 import { personalInfo } from '../utils/constants';
-import Profil from '../../public/assets/albert.png';
+import Profil from '../assets/albert.png';
 
 const Hero = () => {
   return (
