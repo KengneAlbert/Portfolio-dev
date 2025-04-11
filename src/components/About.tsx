@@ -23,13 +23,13 @@ const About = () => {
     {
       icon: Code2,
       title: "Frontend",
-      skills: "React, Next.js, TypeScript",
+      skills: "React, TypeScript",
       color: "text-blue-500",
     },
     {
       icon: Palette,
       title: "UI/UX",
-      skills: "Tailwind, Material UI, Sass",
+      skills: "Tailwind, Material UI,
       color: "text-purple-500",
     },
     {
