@@ -29,7 +29,7 @@ const About = () => {
     {
       icon: Palette,
       title: "UI/UX",
-      skills: "Tailwind, Material UI,
+      skills: "Tailwind, Material UI",
       color: "text-purple-500",
     },
     {
