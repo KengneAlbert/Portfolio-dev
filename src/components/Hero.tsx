@@ -3,6 +3,7 @@ import { Github, Linkedin, Mail, ChevronDown } from 'lucide-react';
 import { motion } from 'framer-motion';
 import { gradients } from '../utils/gradients';
 import { personalInfo } from '../utils/constants';
+import Profil from '../../public/assets/albert.png';
 
 const Hero = () => {
   return (
@@ -28,7 +29,7 @@ const Hero = () => {
                 className="rounded-full overflow-hidden ring-2 ring-white/20 shadow-2xl shadow-purple-500/30"
               >
                 <img 
-                  src="../../public/assets/albert.png?w=800&q=80"
+                  src={Profil}
                   alt="Profile"
                   className="w-full h-full object-cover"
                 />
@@ -130,7 +131,7 @@ const Hero = () => {
                 className="w-full aspect-[3/4] rounded-2xl overflow-hidden ring-2 ring-white/20 shadow-2xl shadow-purple-500/30"
               >
                 <img 
-                  src="../../public/assets/albert.png?w=800&q=80"
+                  src={Profil}
                   alt="Profile"
                   className="w-full h-full object-cover"
                 />
