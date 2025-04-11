@@ -4,8 +4,8 @@ import email_manager from "../assets/email_manager.png";
 import ndjoka_ui from "../assets/ndjoka_ui.png";
 import synapse from "../assets/synapse.png";
 import tontine_africaine from "../assets/tontine_africaine.png";
-import Startup_academy from "../assets/Startup academy.png";
-import Centre_albert_einstein from "../assets/Centre albert einstein.png";
+import Startup_academy from "../assets/Startup_academy.png";
+import Centre_albert_einstein from "../assets/centre_albert_einstein.png";
 
 
 export const personalInfo = {
