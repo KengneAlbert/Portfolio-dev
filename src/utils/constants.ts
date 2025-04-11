@@ -7,7 +7,6 @@ import tontine_africaine from "../assets/tontine_africaine.png";
 import Startup_academy from "../assets/Startup_academy.png";
 import Centre_albert_einstein from "../assets/centre_albert_einstein.png";
 
-
 export const personalInfo = {
   name: "Albert Kengne",
   title: "Front End Developer",
@@ -84,7 +83,7 @@ export const projects = [
     title: "Startup Academy",
     description:
       "Site web moderne pour Startup Academy du Dr Claudel Noubissie, focalisé sur la formation entrepreneuriale.",
-    image:Startup_academy,
+    image: Startup_academy,
     tags: ["React", "Tailwind CSS", "TypeScript"],
     demoUrl: "https://startup-academy.onrender.com",
     githubUrl: "https://github.com",
@@ -109,5 +108,20 @@ export const projects = [
     demoUrl: "https://murcas.onrender.com",
     githubUrl: "https://github.com",
     featured: false,
+  },
+];
+
+export const education = [
+  {
+    degree: "Licence en Concepteur Développeur Réseaux Internet",
+    school: "IUT Fotso Victor de Bandjoun",
+    year: "2024",
+    description: "Formation approfondie en développement web et réseaux",
+  },
+  {
+    degree: "DUT en Génie Logiciel",
+    school: "IUT Fotso Victor de Bandjoun",
+    year: "2023",
+    description: "Formation en conception et développement de logiciels",
   },
 ];
